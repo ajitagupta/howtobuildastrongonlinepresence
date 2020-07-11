@@ -13,7 +13,7 @@ This post deals with creating a memorable and rich online presence, perfectly su
 I have seen many people (especially students) create a web page to describe themselves in detail and showcase a few projects. I do not consider this to be appropriate nor professional. Projects can easily be shared on GitHub, whereas the extra information about you is not meant to be online. Websites are mainly used in academia or research, where people enumerate their list of papers, collaboraters and share their review actvities. For other purposes, LinkedIn is generally sufficient.
 
 ## Blog
-Blogs are multi-purpose and used by many - for knowledge sharing, ecommerce, marketing, branding, etc. It's worth all the extra work if you are a regular and your posts are unique (e.g. travel stories). In all other cases I find it redundant and a waste of domain space. Ask yourself: *What does the blog convey about you?*. Keep your personal life private.
+Blogs are multi-purpose and used by many - for knowledge sharing, ecommerce, marketing, branding, etc. It's worth all the extra work if you are a regular and your posts are unique (e.g. travel stories). In all other cases I find it redundant and a waste of domain space. Ask yourself: *What does the blog convey about you?*. Keep your personal life private. On company pages blogs are used for news and recent updates, perhaps even branding.
 
 ## GitHub
 
