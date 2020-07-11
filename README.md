@@ -8,6 +8,7 @@ This post deals at making you put your best foot forward, perfectly suited for j
 More than ever before we are all hooked to social media.
 
 ## LinkedIn
+Ideally, your summary should go back to as far as your education, describe your work experience and skills concisely and comprehensively. There is ample space to share certificates, projects, publications and other feats.
 
 ## Website
 I have seen many people (especially students) create a web page to describe themselves in detail and showcase a few projects. I do not consider this to be appropriate nor professional. Projects can easily be shared on GitHub, whereas the extra information about you is not meant to be online. Websites are a convention used in academia or research, where people enumerate their list of papers, collaboraters and share their review activities. For other purposes, LinkedIn is generally sufficient. If you insist on making one make sure it's got a template.
@@ -18,7 +19,7 @@ Blogs are multi-purpose and used by many - for knowledge sharing, ecommerce, mar
 ## GitHub
 
 ## Medium
-Medium is *the* source of news on technology and engineering, but their catalogue of topics stretches far beyond that and encompasses art, food, culture, humor, sports and music. You can use Medium to keep yourself up to date and build your knowledge. Sharing and subscribing is very simple. and fun.
+Medium is *the* source of news on technology but their catalogue of topics stretches far beyond that and encompasses art, food, culture, humor, sports and music. You can use Medium to keep yourself up to date and build your knowledge. Sharing and subscribing is very simple. and fun.
 
 ## Groups
 Groups give a sense of belonging. However, most people do not actively contribute nor participate in discussions. Moreover, some just use it to brand themselves. That's plain wrong! Use this opportunity to connect to like-minded members, forge new relationships and grow your network, one step at a time.
