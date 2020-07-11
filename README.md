@@ -8,7 +8,7 @@ This post deals at making you put your best foot forward, perfectly suited for j
 More than ever before we are all hooked to social media.
 
 ## LinkedIn
-Ideally, your summary should go back to as far as your education, describe your work experience and skills concisely and comprehensively. There is ample space to share certificates, projects, publications and other feats.
+Ideally, your summary should go back to as far as your education, describe your work experience and skills concisely and comprehensively. There is ample space to share certificates, projects, publications and other feats. Prior work experience during your studies will almost always get you a job. If you are aiming at high profile MNC's such as Google you will have to do well academically unless you can compensate it with project work.
 
 ## Website
 I have seen many people (especially students) create a web page to describe themselves in detail and showcase a few projects. I do not consider this to be appropriate nor professional. Projects can easily be shared on GitHub, whereas the extra information about you is not meant to be online. Websites are a convention used in academia or research, where people enumerate their list of papers, collaboraters and share their review activities. For other purposes, LinkedIn is generally sufficient. If you insist on making one make sure it's got a template.
