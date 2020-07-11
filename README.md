@@ -2,7 +2,7 @@
 
 Whether you are applying for jobs, reaching out for professional advice or toying with a new startup idea your online profile will be instrumental in your success. However, it's not as easy as it might sound. Firstly, time is limited. Secondly, you have only got one chance to impress. Finally, your approach should be focused and appealing for others to take notice and reciprocate the effort.
 
-This post deals at making you put your best foot forward, perfectly suited for job seekers and forming new contacts.
+This post deals with making you put your best foot forward, perfectly suited for job seekers and forming new contacts.
 
 ## Social Media
 More than ever before we are all hooked to social media.
