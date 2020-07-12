@@ -8,7 +8,7 @@ This post deals with making you put your best foot forward, perfectly suited for
 More than ever before we are all hooked to social media. If you do not have a social media strategy yet, make one! Convey a clear, strong and visually enticing message. Simply being active doesn't do it.
 
 ## LinkedIn
-Ideally, your summary should go back to as far as your education, describe your work experience and skills concisely and comprehensively. There is ample space to share certificates, projects, publications and other feats. Prior work experience during your studies will almost always get you a job. If you are aiming at high profile MNC's such as Google you will have to do well academically unless you can compensate it with project work.
+Ideally, your summary should go back to as far as your education, describe your work experience and skills concisely and comprehensively. There is ample space to share certificates, projects, publications and other feats. Prior work experience during your studies will almost always get you a job. If you are aiming at high profile MNC's such as Google you will have to do well academically unless you can compensate it with significant project work.
 
 Networking doesn't have to be done in person. Browse through member profiles and connect to those you can relate to on a professional level. Have your CV ready in case you are actively seeking employment.
 
